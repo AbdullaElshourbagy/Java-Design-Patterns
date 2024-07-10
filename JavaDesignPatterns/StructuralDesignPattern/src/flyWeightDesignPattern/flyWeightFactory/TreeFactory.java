@@ -1,6 +1,6 @@
 package flyWeightDesignPattern.flyWeightFactory;
 
-import flyWeightDesignPattern.concreteClasses.TreeType;
+import flyWeightDesignPattern.TreeType;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,7 +1,8 @@
 package flyWeightDesignPattern.flyWeightFactory;
 
-import flyWeightDesignPattern.concreteClasses.Tree;
-import flyWeightDesignPattern.concreteClasses.TreeType;
+import flyWeightDesignPattern.Tree;
+import flyWeightDesignPattern.TreeType;
+import flyWeightDesignPattern.flyWeightFactory.TreeFactory;
 
 import java.util.ArrayList;
 import java.util.List;

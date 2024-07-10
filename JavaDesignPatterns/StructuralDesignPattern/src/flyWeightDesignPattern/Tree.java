@@ -1,4 +1,4 @@
-package flyWeightDesignPattern.concreteClasses;
+package flyWeightDesignPattern;
 
 public class Tree {
     private int x;
