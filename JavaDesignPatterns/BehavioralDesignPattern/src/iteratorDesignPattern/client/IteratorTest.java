@@ -1,8 +1,7 @@
-package iteratoeDesignPattern.client;
+package iteratorDesignPattern.client;
 
-import iteratoeDesignPattern.collection.EmployeeList;
-import iteratoeDesignPattern.concreteCollection.EmployeeOperations;
-import iteratoeDesignPattern.iterator.Iterator;
+import iteratorDesignPattern.concreteCollection.EmployeeOperations;
+import iteratorDesignPattern.iterator.Iterator;
 
 import java.util.ArrayList;
 import java.util.List;

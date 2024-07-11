@@ -1,4 +1,4 @@
-package iteratoeDesignPattern.iterator;
+package iteratorDesignPattern.iterator;
 
 public interface Iterator {
 

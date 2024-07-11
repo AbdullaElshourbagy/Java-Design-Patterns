@@ -1,7 +1,7 @@
-package iteratoeDesignPattern.concreteIterator;
+package iteratorDesignPattern.concreteIterator;
 
-import iteratoeDesignPattern.client.Employee;
-import iteratoeDesignPattern.iterator.Iterator;
+import iteratorDesignPattern.client.Employee;
+import iteratorDesignPattern.iterator.Iterator;
 
 import java.util.List;
 

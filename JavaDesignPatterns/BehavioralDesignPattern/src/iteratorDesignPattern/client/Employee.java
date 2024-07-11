@@ -1,4 +1,4 @@
-package iteratoeDesignPattern.client;
+package iteratorDesignPattern.client;
 
 public class Employee {
     private int id;
