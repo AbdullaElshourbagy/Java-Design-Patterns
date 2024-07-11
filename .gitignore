@@ -1,6 +1,5 @@
 #IDE
 .idea/*
-*.iml
 .settings/
 # Compiled class file
 *.class
